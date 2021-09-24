@@ -1,2 +1,3 @@
 git log --pretty=oneline
 git log --pretty=format:%h %s –graph
+git log --all --decorate --graph --online
